@@ -1,1 +1,1 @@
-### 1. Create database named: FacultySystemDB.
+## 1. Create database named: FacultySystemDB.
