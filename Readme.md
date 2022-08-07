@@ -16,7 +16,8 @@ use FacultySystemDB;
 
 •IsFired: Boolean
 
-db.createCollection("student", {
+ 
+ db.createCollection("student", {
    validator: {
       $jsonSchema: {
          bsonType: "object",
