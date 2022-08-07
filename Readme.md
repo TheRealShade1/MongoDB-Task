@@ -2,7 +2,7 @@
 
 ## 1. Create database named: FacultySystemDB.
 
-use FacultySystemDB;
+    use FacultySystemDB;
 
 ## 2. Create collection (student) that has:
 
